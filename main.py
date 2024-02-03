@@ -20,7 +20,6 @@ def main():
 	old_table = {}
 
 	current_ip = get_current_ip()
-	current_ip = "120.130.134.148"
 	response = get_current(config["email"], config["global_key"])
 
 	if response is None:
