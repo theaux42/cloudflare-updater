@@ -1,0 +1,14 @@
+{
+	"ntfy": {
+		"error": "http://XXXXXXXXXXXXXXX/error",
+		"alert": "http://XXXXXXXXXXXXXXX/alert",
+		"success": "http://XXXXXXXXXXXXXXX/success",
+		"info": "http://XXXXXXXXXXXXXXX/info"
+	},
+	"email" : "XXXXXXXXXXXXXXXXXXXXXXXXX",
+	"global_key" : "XXXXXXXXXXXXXXXXXXXXXXXXX",
+	"zone_id" : "XXXXXXXXXXXXXXXXXXXXXXXXX",
+	"record_id" : "XXXXXXXXXXXXXXXXXXXXXXXXX",
+	"is_proxied" : true,
+	"debug": false
+  }
