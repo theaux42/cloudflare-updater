@@ -21,6 +21,7 @@ Ce projet est un script Python qui met à jour automatiquement l'adresse IP d'un
 2. Installez les dépendances avec `pip install -r requirements.txt`
 3. Remplir le fichier `config.json`
 4. Exécutez le script avec `python main.py`
+5. À vous d'utiliser le script selon vos besoins (En cas de redémarrage, avec `cron` etc...)
 
 ## Notifications
 
